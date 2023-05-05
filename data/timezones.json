@@ -1,0 +1,39 @@
+{
+  "IST": {
+    "full_form": "India Standard Time",
+    "offset": 5.5
+  },
+  "CST": {
+    "full_form": "China Standard Time",
+    "offset": 8.0
+  },
+  "EST": {
+    "full_form": "Eastern Standard Time",
+    "offset": -5.0
+  },
+  "JST": {
+    "full_form": "Japan Standard Time",
+    "offset": 9.0
+  },
+  "PST": {
+    "full_form": "Pacific Standard Time",
+    "offset": -8.0
+  },
+  "PT": {
+    "full_form": "Pacific Time",
+    "offset": -7.0
+  },
+  "EAST": {
+    "full_form": "Eastern African Time",
+    "offset": 3.0
+  },
+  "CAT": {
+    "full_form": "Central Africa Time",
+    "offset": 2.0
+  },
+  "AST": {
+    "full_form": "Arabia Standard Time",
+    "offset": 3.0
+  }
+ 
+}
