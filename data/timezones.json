@@ -34,6 +34,49 @@
   "AST": {
     "full_form": "Arabia Standard Time",
     "offset": 3.0
+  },
+  "MST": {
+    "full_form": "Mountain Standard Time",
+    "offset": -7.0
+  },
+  "NPT": {
+    "full_form": "Nepal Time",
+    "offset": 5.75
+  },
+  "ACST": {
+    "full_form": "Australian Central Standard Time",
+    "offset": 9.5
+  },
+  "GMT": {
+    "full_form": "Greenwich Mean Time",
+    "offset": 0
+  },
+  "IRST": {
+    "full_form": "Iran Standard Time",
+    "offset": 3.5
+  },
+  "MSK": {
+    "full_form": "Moscow Standard Time",
+    "offset": 3
+  },
+  "AFT": {
+    "full_form": "Afghanistan Time",
+    "offset": 4.5
+  },
+  "NZST": {
+    "full_form": "New Zealand Standard Time",
+    "offset": 12
+  },
+  "EET": {
+    "full_form": "Eastern European Time",
+    "offset": 2
+  },
+  "FNT": {
+    "full_form": "Fernando de Noronha Time",
+    "offset": -2
+  },
+  "CET": {
+    "full_form": "Central European Time",
+    "offset": 1
   }
- 
 }
